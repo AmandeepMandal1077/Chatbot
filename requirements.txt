@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain_experimental
+langchain-chroma
+langchainhub
+langsmith
+wikipedia
+chromadb
+beautifulsoup4
+langchain-google-genai
+python-dotenv
